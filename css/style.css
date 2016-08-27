@@ -39,7 +39,7 @@
 
 @media only screen and (max-width: 500px) {
   body{
-      background: url(a.png) no-repeat center center fixed; 
+      background: url(a.png) no-repeat fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
