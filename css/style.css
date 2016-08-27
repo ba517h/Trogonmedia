@@ -1,0 +1,56 @@
+/
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+ font-size: inherit;
+}
+ body {
+  background: url(b.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* For width 400px and larger: */
+
+.a{
+   font-family: 'Poiret One', cursive;
+    font-size: 35px;
+  text-align: center;
+
+}
+.b
+{
+  position: absolute;
+  top:15%;
+
+  
+}
+@media only screen and (min-width: 500px) {
+
+   .c
+   {
+    position: absolute;
+    left: 15%;
+   }
+  }
+
+@media only screen and (max-width: 500px) {
+      background: url(a.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+    
+
+}
+.a1
+{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 45px;
+  text-align: center;
+}
